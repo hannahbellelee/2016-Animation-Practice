@@ -1,0 +1,28 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎_.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.pdb
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.exe.config
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.exe
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.pdb
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.exe
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\bin\Debug\アニメーション基礎Ⅰ.pdb
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.csprojResolveAssemblyReference.cache
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\MainWindow.g.cs
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\App.g.cs
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ_MarkupCompile.cache
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ_MarkupCompile.lref
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\MainWindow.baml
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.g.resources
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎_.Properties.Resources.resources
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅰ\アニメーション基礎Ⅰ\obj\Debug\アニメーション基礎Ⅰ.csproj.GenerateResource.Cache

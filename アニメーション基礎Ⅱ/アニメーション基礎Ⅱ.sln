@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "アニメーション基礎Ⅱ", "アニメーション基礎Ⅱ\アニメーション基礎Ⅱ.csproj", "{B7826168-D88D-4583-81E2-08243B55EEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7826168-D88D-4583-81E2-08243B55EEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7826168-D88D-4583-81E2-08243B55EEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7826168-D88D-4583-81E2-08243B55EEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7826168-D88D-4583-81E2-08243B55EEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,72 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎_.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\System.Windows.Interactivity.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\t-okawa\documents\visual studio 2015\Projects\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.exe.config
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.exe
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.pdb
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.exe
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\アニメーション基礎Ⅱ.pdb
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\System.Windows.Interactivity.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.csprojResolveAssemblyReference.cache
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\MainWindow.g.cs
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\App.g.cs
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ_MarkupCompile.cache
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ_MarkupCompile.lref
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\MainWindow.baml
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.g.resources
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎_.Properties.Resources.resources
+F:\アプリ練習\プログラミング\アニメーション基礎Ⅱ\アニメーション基礎Ⅱ\obj\Debug\アニメーション基礎Ⅱ.csproj.GenerateResource.Cache

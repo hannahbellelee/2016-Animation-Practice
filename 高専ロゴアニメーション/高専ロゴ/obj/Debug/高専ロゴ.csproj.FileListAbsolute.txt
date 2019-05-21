@@ -1,0 +1,31 @@
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\bin\Debug\高専ロゴ.exe.config
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\bin\Debug\高専ロゴ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\bin\Debug\高専ロゴ.pdb
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.csprojResolveAssemblyReference.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\MainWindow.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\App.g.cs
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ_MarkupCompile.cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ_MarkupCompile.lref
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\MainWindow.baml
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.g.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.Properties.Resources.resources
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.csproj.GenerateResource.Cache
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.exe
+c:\users\t-okawa\documents\visual studio 2015\Projects\高専ロゴ\高専ロゴ\obj\Debug\高専ロゴ.pdb
+E:\プログラミング\高専ロゴアニメーション\高専ロゴ\bin\Debug\高専ロゴ.exe.config
+E:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.exe
+E:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.pdb
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\bin\Debug\高専ロゴ.exe.config
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.exe
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.pdb
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\bin\Debug\高専ロゴ.exe
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\bin\Debug\高専ロゴ.pdb
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.csprojResolveAssemblyReference.cache
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\MainWindow.g.cs
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\App.g.cs
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ_MarkupCompile.cache
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ_MarkupCompile.lref
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\MainWindow.baml
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.g.resources
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.Properties.Resources.resources
+G:\プログラミング\高専ロゴアニメーション\高専ロゴ\obj\Debug\高専ロゴ.csproj.GenerateResource.Cache
